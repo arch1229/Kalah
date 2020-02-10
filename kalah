@@ -1,0 +1,20 @@
+import copy
+
+def reverse_board(board):
+    return board[7:] + board[:7]
+
+class Kalah:
+    def __init__(self):
+        
+    def get_board(self):
+        
+    def show_board(self):
+        
+    def empty_taking(self):
+        
+    def move(self):
+        
+    def is_game_over(self):
+        
+    def result(self):
+        
